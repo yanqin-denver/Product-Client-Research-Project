@@ -1,2 +1,4 @@
-# Yan Qin's Work Sample Using Python Language
+# Yan Qin's Work Sample
+
+## Product & Client Research Project (Python)
 
