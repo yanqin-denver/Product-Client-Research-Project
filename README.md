@@ -11,10 +11,10 @@ LinkedIn: https://www.linkedin.com/in/yan-seven-qin/
 
 2. Product-Client-Research Project
 
-3. Movie Popularity Prediction (Lead, Team Project, R & Python)
+3. Movie Popularity Prediction (Team Lead, Team Project, R & Python)
 
 ## R
-1. Stock Portfolio Construction Using PCA
+1. Stock Portfolio Construction Using PCA (Team Lead, Team Project)
 
 ## Machine Learning
 1. Machine Learning Cheatsheet
