@@ -1,7 +1,7 @@
 # Yan Qin's Work Sample
 
 Hi there, this is Yan Qin's work sample space. 
-I will be posting my projects using R and Python. I will also upload machine learning and data science related study&resource sheets. Have fun :)
+I will be posting my projects using R and Python. I will also upload machine learning and data science related study materials. Have fun :)
 
 ## Python
 1. Prediction of Compressive Strength of Concrete
