@@ -3,8 +3,16 @@
 Hi there, this is Yan Qin's work sample space. 
 I will be posting my projects using R and Python. 
 
-Python
+## Python
 1. Prediction of Compressive Strength of Concrete
 
 2. Product-Client-Research Project
+
+3. Movie Popularity Prediction (Team Project, R & Python)
+
+## R
+1. Stock Portfolio Construction Using PCA
+
+
+
 
