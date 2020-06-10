@@ -3,7 +3,8 @@
 Hi there, this is Yan Qin's work sample space. 
 I will be posting my projects using R and Python. I will also upload machine learning and data science related study materials. Have fun :) 
 
-My email: yq2232@columbia.edu
+My email: yq2232@columbia.edu;
+LinkedIn: https://www.linkedin.com/in/yan-seven-qin/
 
 ## Python
 1. Prediction of Compressive Strength of Concrete
